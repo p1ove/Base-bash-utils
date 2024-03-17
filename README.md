@@ -1,2 +1,2 @@
 # Base-bash-utils
-Simple cat+grep on C language
+Simple cat and grep on C + unit tests on bash
